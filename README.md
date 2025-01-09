@@ -1,1 +1,4 @@
-Objetivo do e-book: oferecer informações valiosas e insights para quem quer entender as dinâmicas e como melhorar os relacionamentos no contexto atual.
+E-book criado utilizando os seguintes recursos: 
+ Texto gerado pelo CHAT-GPT
+ Imagem gerada pelo BING
+ Diagramação efetuada no LibleOffice
